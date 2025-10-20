@@ -1,4 +1,4 @@
-![header_image]([terminator_becomes_self_aware1.png](https://github.com/local-toronto-php-groups/2025oct16_laravel_toronto/blob/main/terminator_becomes_self_aware1.png))
+![header_image]([terminator_becomes_self_aware1.png](https://raw.githubusercontent.com/local-toronto-php-groups/2025oct16_laravel_toronto/blob/main/terminator_becomes_self_aware1.png))
 
 # Laravel Toronto meet-up, Nov 06/2025
 Laravel Toronto meet-up, on Nov 06, 2025 (More Journeying Through PHP + Laravel + AI)
