@@ -19,7 +19,6 @@ We are continuing the discussion this month, at Maple's gorgeous downtown office
 Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
 - 7:00pm to 9:00pm: AI+PHP+Laravel
-- 
 
 ##
-Meetup.com listing: 
+Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/311638403/?slug=laravel-toronto](https://www.meetup.com/laravel-toronto/events/311638403/?slug=laravel-toronto)
