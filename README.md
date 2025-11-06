@@ -38,3 +38,9 @@ His website is at [https://laraveldaily.com](https://laraveldaily.com).
 
 ##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/311638403/?slug=laravel-toronto](https://www.meetup.com/laravel-toronto/events/311638403/?slug=laravel-toronto)
+
+## 
+This link is mostly for Lukasz!
+
+[https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing](https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing)
+
