@@ -44,3 +44,10 @@ This link is mostly for Lukasz!
 
 [https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing](https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing)
 
+##
+[![Video of Povilas Q&A](https://img.youtube.com/vi/TS0IobnPcRU/0.jpg)](https://www.youtube.com/watch?v=TS0IobnPcRU)
+
+##
+[![The Official PHP SDK for MCP With Kyrian Obikwelu](https://img.youtube.com/vi/VUY9grGECJM/0.jpg)](https://www.youtube.com/watch?v=VUY9grGECJM)
+
+
