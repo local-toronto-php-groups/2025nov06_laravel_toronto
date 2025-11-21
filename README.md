@@ -44,6 +44,11 @@ This link is mostly for Lukasz!
 
 [https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing](https://www.notyouradvisor.com/p/nvidia-circular-vendor-financing)
 
+
+And, a follow-up:
+
+[https://www.reuters.com/business/finance/weinsteins-saba-sells-credit-derivatives-big-tech-as-ai-risks-grow-source-says-2025-11-17/](https://www.reuters.com/business/finance/weinsteins-saba-sells-credit-derivatives-big-tech-as-ai-risks-grow-source-says-2025-11-17/)
+
 ##
 [![Video of Povilas Q&A](https://img.youtube.com/vi/TS0IobnPcRU/0.jpg)](https://www.youtube.com/watch?v=TS0IobnPcRU)
 
